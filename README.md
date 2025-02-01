@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Computer Science Study
+
+- [Computer Architecture](https://github.com/honopyh/computer-architecture)
+- [Operating System](https://github.com/honopyh/operating-system)
+
 <!--
 **honopyh/honopyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
