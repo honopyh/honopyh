@@ -6,6 +6,7 @@
 
 - [Computer Architecture](https://github.com/honopyh/computer-architecture)
 - [Operating System](https://github.com/honopyh/operating-system)
+- [Design Patterns](https://github.com/honopyh/design-patterns)
 
 #### Machine Learning
 
