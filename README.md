@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Projects
+
 ### Computer Science Study
 
 - [Computer Architecture](https://github.com/honopyh/computer-architecture)
