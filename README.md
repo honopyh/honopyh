@@ -5,6 +5,11 @@
 - [Computer Architecture](https://github.com/honopyh/computer-architecture)
 - [Operating System](https://github.com/honopyh/operating-system)
 
+#### Machine Learning
+
+- [혼자 공부하는 머신러닝+딥러닝](https://github.com/honopyh/hg-mldl)
+- [파이썬 머신러닝 완벽 가이드](https://github.com/honopyh/pymlrev2)
+
 <!--
 **honopyh/honopyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
