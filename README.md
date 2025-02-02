@@ -1,16 +1,16 @@
-### About me
+### 🍀 About me
 
 ---
 
-### Projects
+### 🍀 Projects
 
 ---
 
-### Certificates
+### 🍀 Certificates
 
 ---
 
-### Computer Science Study
+### 🍀 Computer Science Study
 
 - [Computer Architecture](https://github.com/honopyh/computer-architecture)
 - [Operating System](https://github.com/honopyh/operating-system)
